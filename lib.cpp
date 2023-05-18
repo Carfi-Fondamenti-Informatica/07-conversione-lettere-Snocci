@@ -1,3 +1,4 @@
+#include "Libreria.h"
 bool funzione1 (char n){
     if (n>=65 && n<=90 ) {
     n=(n+32);
